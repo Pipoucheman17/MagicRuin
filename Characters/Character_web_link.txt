@@ -1,0 +1,11 @@
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?sex=muscular&body=Muscular_muscular_white_v2&wound_arm=none&wound_eye=none&shadow=Shadow_shadow&eyes=Eyes_blue&beard=Bigstache_black&earring=none&shoes=Armour_6&legs=Wide_pants_black&shoulders=Plate_9&bauldron=Bauldron_brown&cape=Solid_black&hair=none&hat=Horned_4&weapon=Slash_oversize_waraxe
+
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_darkelf&shadow=Shadow_shadow&eyes=Eyes_blue&beard=Beard_raven_2&facial=none&shoes=Shoes_maroon&legs=Pants_gray&clothes=Longsleeve_laced_charcoal&jacket=Collared_coat_slate&wrists=Lace_Cuffs_gold&bracers=Bracers_1&belt=none&sash=none&cape=none&neck=Cravat_black&hair=Bangs_longer_raven_2&hat=Magic_no_moon&weapon=Thrust_simple_staff
+
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_dark_2&clothes=none&apron=none&armour=Leather_blue&shoulders=none&legs=Pants_charcoal&hat=Cloth_hood_black&shoes=Sandals_brown&gloves=none&bracers=Bracers_5&weapon=Slash_dagger&bauldron=none
+
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?sex=female&body=Humanlike_white&shadow=Shadow_shadow&eyes=Eyes_green&facial=none&shoes=Boots_brown&legs=Pants_green&dress=none&vest=Corset_green&hair=Shoulder_right_brunette&weapon=Bow_recurve&ammo=Ammo_arrow&bauldron=Bauldron_brown&quiver=none&bracers=Bracers_9
+
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_black&facial=Facial_mask_white&shoes=Shoes_black&legs=Pants_gray&clothes=Longsleeve_laced_tan&jacket=Trench_coat_dark_gray&hair=none&shadow=Shadow_shadow
+
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&shadow=Shadow_shadow&wound_eye=none&beard=Beard_gray&facial=Facial_glasses&legs=Pantaloons_leather&clothes=Sleeved_formal&vest=Vest_brown&shoes=Shoes_brown&hair=Pixie_gray&weapon=Thrust_cane
